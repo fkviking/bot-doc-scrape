@@ -1,6 +1,6 @@
 {
   "index_name": "test_viking",
-  "start_urls": ["https://toshafree.github.io/vk_test/"],
+  "start_urls": ["https://toshafree.github.io/vk_test/guide/"],
   "selectors": {
     "lvl0": {
       "selector": ".site-name",

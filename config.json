@@ -1,5 +1,5 @@
 {
-  "index_name": "scrape-test",
+  "index_name": "test_viking",
   "start_urls": ["https://toshafree.github.io/vk_test/"],
   "selectors": {
     "lvl0": {

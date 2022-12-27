@@ -22,7 +22,6 @@
       "global": true
     }
   },
-  
   "custom_settings": {
     "attributesForFaceting": [
       "lang"

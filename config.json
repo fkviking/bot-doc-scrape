@@ -2,10 +2,7 @@
   "index_name": "test_viking",
   "start_urls": [
     {
-      "url": "https://toshafree.github.io/vk_test/guide/",
-      "variables": {
-        "lang": ["en-US"]
-      }
+      "url": "https://toshafree.github.io/vk_test/guide/"
     }
   ],
   "selectors": {
@@ -18,6 +15,16 @@
     "lvl3": ".content__default h3",
     "lvl4": ".content__default h4",
     "lvl5": ".content__default h5",
-    "text": ".content__default p, .content__default li"
+    "text": ".content__default p, .content__default li",
+    "lang": {
+      "selector": "/html/@lang",
+      "type": "xpath",
+      "global": true
+    }
+  },
+  "custom_settings": {
+    "attributesForFaceting": [
+      "lang"
+    ]
   }
 }

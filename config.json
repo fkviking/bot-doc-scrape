@@ -1,8 +1,8 @@
 {
-  "index_name": "test_viking",
+  "index_name": "test_viking2",
   "start_urls": [
     {
-      "url": "https://toshafree.github.io/vk_test/guide/"
+      "url": "https://fkviking.github.io/bot-doc/docs/"
     }
   ],
   "selectors": {
